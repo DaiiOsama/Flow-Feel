@@ -7,6 +7,7 @@ Team Members:
  3. Yasmin Magdy
  4. Mona Mahmoud
  5. Asmaa Elsayed
+    
 Project Name: ZAD (Food Waste Reduction App)
 About the Project
 ZAD is a smart mobile application designed to reduce food waste by connecting supermarkets, bakeries, restaurants, and grocery stores with consumers.
