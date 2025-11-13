@@ -1,7 +1,10 @@
 # Flow-Feel
 UI UX team - DEPI
+
 Instructor: Eng. Mohamed Kamer
+
 Team Members: 
+
  1. Daii Osama
  2. Rana Ashraf
  3. Yasmin Magdy
