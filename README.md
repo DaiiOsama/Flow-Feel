@@ -16,3 +16,5 @@ About the Project
 ZAD is a smart mobile application designed to reduce food waste by connecting supermarkets, bakeries, restaurants, and grocery stores with consumers.
 It allows sellers to list products that are close to their expiration date or may go unsold, offering them at progressively discounted prices  and even for free at the end of the day.
 Through this approach, ZAD helps businesses minimize losses, provides affordable options for consumers, and contributes to sustainability and community support by reducing food waste and promoting responsible consumption
+
+Prototype Link: https://www.figma.com/proto/lGXUlYG3eE90aCNrOfh2O8/Zad?node-id=1-6&t=YUaXBoFH7V9em9QS-1
